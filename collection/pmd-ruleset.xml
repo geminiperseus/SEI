@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ruleset>
+<rule ref="rulesets/java/naming.xml/VariableNamingConventions">
+    <priority>3</priority>
+</rule>
+<rule ref="rulesets/java/controversial.xml/UseConcurrentHashMap">
+    <priority>3</priority>
+</rule>
+<rule ref="rulesets/java/basic.xml/OverrideBothEqualsAndHashcode">
+    <priority>3</priority>
+</rule>
+<!-- You can add as many rules as you want to I am not sure what you guys are looking for so just added some here -->
+</ruleset>
